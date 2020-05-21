@@ -14,3 +14,9 @@ $grey: #f4f6f5;
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
 }
+
+@mixin img{
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
